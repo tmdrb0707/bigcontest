@@ -198,7 +198,7 @@ Crawling
 httr패키지를 이용하면 태그 단위로 해당 chunk를 가지고 올 수 있지만 복잡한 구조의 HTML은 태그를 중복해서 쓰는경우가 많아 오히려 복잡해진다. 따라서 내가 찾고 싶은 위치를 직접 입력하는 방법이 오히려 더 간단하다.(단, Unique하게)
 
 <center>
-![naver movie](crawling.jpg)
+![](crawling.jpg)
 </center>
 크롬의 경우 F12를 누르면 HTML 코드를 확인할 수 있다. 영화코드가 입력되어있는 line은 class="result\_thumb" 부분임을 알 수 있다.
 
